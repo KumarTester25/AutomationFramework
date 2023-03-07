@@ -1,0 +1,3 @@
+{
+  "Dummy" : "SELECT * FROM automationdata.dummydata;"
+}
